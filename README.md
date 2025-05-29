@@ -68,4 +68,5 @@ Real world dataset CCCD on Kaggle. Here is the link: https://www.kaggle.com/data
   - Predicted text
   - Attention heatmap (optional)
 We have deploy the model on to the website. Here are example:
+![Input Example](https://github.com/huynhdang0987/DLFinal/blob/main/cccd.jpg)
 
